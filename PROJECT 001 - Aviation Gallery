@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <main>
+
+      <h1>Aviation Gallery</h1>
+
+      <section>
+        <h2>Aviation Photos</h2>
+        <!-- TODO: Add link to aviation photos -->
+        <p>This is a site to collect most memorable aviation photos. Created by Yos Sebastian</p>
+        <figure>
+          <figcaption>A Black Fighter P-996 Lazer Jet shooting down a Pyro</figcaption>
+          <img src="https://cdn.discordapp.com/attachments/1170855536468705300/1253431661769527306/Dogfight_1.png?ex=6675d4b3&is=66748333&hm=463158886ceecadca45ea50f4138fbf4baac0614fc1d894b66efef509f4dcf6a&" alt="A Black Fighter P-996 Lazer Jet shooting down a Pyro">
+        </figure>
+        <a href="https://docs.google.com/document/d/1GHIKObMkw6XM8KJKkjOccMy7LfVs5e5QoNFUWq2z5mE/edit?usp=sharing">The Big Library</a>
+        <a href="https://docs.google.com/document/d/1GHIKObMkw6XM8KJKkjOccMy7LfVs5e5QoNFUWq2z5mE/edit?usp=sharing" target="_blank">The Big Library (opens in a new tab)</a>
+      </section>
+
+      <section>
+        <p>If you click the logo below, it will open a new tab to the Big Library</p>
+        <a href="https://docs.google.com/document/d/1GHIKObMkw6XM8KJKkjOccMy7LfVs5e5QoNFUWq2z5mE/edit?usp=sharing" target="_blank">
+        <figure>
+          <figcaption>LEO Aviation Logo</figcaption>
+          <img src="https://cdn.discordapp.com/attachments/1170855536468705300/1253436506077528196/LOGO_LEO_AVIATIONkcil.png?ex=6675d936&is=667487b6&hm=0063e35b64a608f16248aab4e0b4cba817fd242f30a97344d4835a46ac5c3d26&> alt="LEO Aviation Logo">
+        </figure>    
+        </a>
+      </section>
+
+      <section>
+        <h3>Themes of Aviation Gallery:<h3>
+        <ul>
+          <li>Helicopters</li>
+          <li>Helicopters in action</li>
+            <ul>
+              <li>Helicopter in pursuit</li>
+              <li>Helicopter in shootouts</li>
+              <li>Military Helicopter in Action</li>
+            </ul>
+          <li>Airplanes in action</li>
+            <ul>
+              <li>Dogfights</li>
+              <li>Aerobatics</li>
+              <li>Military Fighter Jets in Action</li>
+            </ul>
+        </ul>
+        <h3>Top Favored Themes:<h3>
+            <ul>
+              <ol>Dogfights</ol>
+              <ol>Military Helicopter in Action</ol>
+              <ol>Military Fighter Jets in Action</ol>
+            </ul>
+      </section>
+
+      <p>I love <em>AVIATION</em>!</p>
+
+    </main>
+    <footer>
+      <p>Donate to me, please T.T</p>
+    </footer>
+  </body>
+</html>
